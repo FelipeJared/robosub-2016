@@ -1,0 +1,5 @@
+#ignore all pyc files
+*.pyc
+*.project
+*.pydevproject
+*.csv

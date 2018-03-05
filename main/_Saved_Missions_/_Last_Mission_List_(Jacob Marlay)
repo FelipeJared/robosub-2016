@@ -1,0 +1,2 @@
+Navigation1Front={'minHueFront': 0, 'minValFront': 0, 'iteration1Front': 0, 'minSatFront': 0, 'epsilonFront': 0, 'minCurvesFront': 3, 'maxValFront': 0, 'maxCurvesFront': 3, 'maxHueFront': 0, 'operation1Front': 0, 'maxSatFront': 0}
+Navigation1Bottom={'maxSatBottom': 0, 'operation1Bottom': 0, 'maxHueBottom': 0, 'minSatBottom': 0, 'minCurvesBottom': 3, 'minHueBottom': 0, 'iteration1Bottom': 0, 'minValBottom': 0, 'maxValBottom': 0, 'epsilonBottom': 0, 'maxCurvesBottom': 3}
